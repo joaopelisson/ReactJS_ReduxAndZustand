@@ -48,3 +48,10 @@ npm run dev
 //and
 npm run server 
 ````
+
+---
+
+🚀 Preview:
+
+<img src="./public/preview.gif" />
+
