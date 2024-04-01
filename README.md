@@ -15,6 +15,7 @@ This project is being developed using the following technologies:
 - **ShadcnUI**
 - **Vitest**
 - **Typescript**
+- **JSON-Server**
 - **Zustand**
 - **Redux(No longer in the project)**
 
@@ -44,6 +45,6 @@ yarn install
 3. Run the project:
 ````
 npm run dev
-or
-yarn start
+//and
+npm run server 
 ````
